@@ -1,15 +1,15 @@
 # Machine Learning Projects
-![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-sklearn-orange.svg)
+![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.10-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
 ![ML](readme-resources/machine-learning.png)
 
 ## Why this repository?
-• The main purpose of making this repository is to keep all my Machine Learning projects at one place, hence keeping my GitHub clean!<br/>
-• It looks good, isn't it?
+• To keep my GitHub organized, I've created this repository to house all of my Machine Learning-related code.!<br/>
+
 
 ## Overview
-• This repository consists of all my Machine Learning projects.<br/>
-• Datasets are provided in each of the folders above, and the solution to the problem statements as well.
+• My Machine Learning work is stored here.<br/>
+• Each of the aforementioned folders contains a dataset, as well as the answers to the corresponding problem statements.
 
 ## Algorithms used
 **Regression:**<br/>
@@ -33,6 +33,6 @@
 • _Random Forest_<br/>
 • _Adaptive Boosting (AdaBoost)_<br/>
 • _Extreme Gradient Boosting (XGBoost)_<br/>
-• _Voting (Hard/Soft)_<br/>
+
 
 **Do ⭐ the repository, if it helped you in anyway.**
